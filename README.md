@@ -18,3 +18,4 @@ Author: [Abhijay Rajvansh](https://abhijayrajvansh.com)
 - [traditional auth](https://github.com/abhijayrajvansh/pern-auth-server): traditional way of jwt authentication from scrath using postgres, express, react and node.
 - [flare particles](https://flareparticles.vercel.app): flare effect with flying dust particles landing page.
 - [admin dashboard](https://admin-kanban-event-management.vercel.app): admin dashbaord with kanban and even management ops.
+- [trpc next app example](https://github.com/abhijayrajvansh/trpc-next-app): sample nextjs app with trpc endpoints for server and client side calls.
